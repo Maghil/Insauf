@@ -1,6 +1,8 @@
 "# autoInstagram" 
 
 REQUIREMENTS:
-  windows7+
+  OS     : Windows
+  .Net   : .Net 4.6+(download when prompted)
 
-GUIDE LINES:
+Disclaimer :
+  We are not responsible if you get caught exploiting 
