@@ -1,4 +1,4 @@
-"# autoInstagram" 
+# autoInstagram
 
 REQUIREMENTS:
 
