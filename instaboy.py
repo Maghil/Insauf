@@ -162,8 +162,3 @@ def unfollow(a,b):
         return(2)
     except WebDriverException as e:
         return(3)
-
-
-# print(scrape("the_enigmatic_beach","a6cmMEAT"))
-# print(nonfollowers())
-print(unfollow("the_enigmatic_beach","a6cmMEAT"))
